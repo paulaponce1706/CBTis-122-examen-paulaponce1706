@@ -1,0 +1,37 @@
+h1{
+    font-family: "PR Viking";
+    text-align: center;
+    font-size: 700%;
+    color: white;
+}
+body{
+    background-color: black;
+}
+
+img{
+    width: 300px; height: 300px;
+}
+
+p{
+    font-family: Minimal;
+    font-size: 25px;
+    color: gray();
+}
+
+h2{
+    font-size: 80px;
+    font-family: "ODINS SPEAR RAGGED HOLLOW";
+    text-align: left;
+    color: black;
+}
+button{
+    height: 50px;
+}
+form{
+    height: 50px;
+}
+h5{
+    font-family: "fantasy";
+    font-size: 25px;
+}
+
